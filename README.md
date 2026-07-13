@@ -8,7 +8,7 @@ I'm currently focused on Microsoft Azure, working through cloud fundamentals, id
 
 ## What I'm Working On
 
-- Preparing for the **AZ-900 Microsoft Azure Fundamentals** certification
+- Preparing for the **AZ-104 Microsoft Azure Administrator** certification
 - Building a structured knowledge base covering core Azure services
 - Deepening my understanding of cloud networking, identity, and security
 
